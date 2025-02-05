@@ -1,23 +1,25 @@
 import 'package:flutter/material.dart';
+import 'package:gap/gap.dart';
+import 'page_componant/header.dart';
+import 'page_componant/projects.dart';
+import 'page_componant/skills.dart';
 
-class WibsitePage extends StatefulWidget {
+class WibsitePage extends StatelessWidget {
   const WibsitePage({super.key});
 
   @override
-  State<WibsitePage> createState() => _WibsitePageState();
-}
-
-class _WibsitePageState extends State<WibsitePage> {
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Container(
-          height: 300,
-          width: 150,
-          child: Image(
-            image: AssetImage('assets/my_roshita/4.webp'),
-          ),
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            Header(),
+            Gap(30),
+            Skills(),
+            Gap(30),
+            Projects(),
+            Gap(800),
+          ],
         ),
       ),
     );

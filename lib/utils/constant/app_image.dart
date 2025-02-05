@@ -1,0 +1,117 @@
+class AppImage {
+  static const String anees1 = 'assets/anees/1.webp',
+      anees2 = 'assets/anees/2.webp',
+      anees3 = 'assets/anees/3.webp',
+      anees4 = 'assets/anees/4.webp',
+      anees5 = 'assets/anees/5.webp',
+      anees6 = 'assets/anees/6.webp',
+      anees7 = 'assets/anees/7.webp',
+      anees8 = 'assets/anees/8.webp',
+      anees9 = 'assets/anees/9.webp',
+      anees10 = 'assets/anees/10.webp',
+      anees11 = 'assets/anees/11.webp',
+      anees12 = 'assets/anees/12.webp',
+      anees13 = 'assets/anees/13.webp',
+      anees14 = 'assets/anees/14.webp',
+      anees15 = 'assets/anees/15.webp',
+      anees16 = 'assets/anees/16.webp';
+
+  static const String amalCharity1 = 'assets/amal_charity/1.webp',
+      amalCharity2 = 'assets/amal_charity/2.webp',
+      amalCharity3 = 'assets/amal_charity/3.webp',
+      amalCharity4 = 'assets/amal_charity/4.webp',
+      amalCharity5 = 'assets/amal_charity/5.webp',
+      amalCharity6 = 'assets/amal_charity/6.webp',
+      amalCharity7 = 'assets/amal_charity/7.webp',
+      amalCharity8 = 'assets/amal_charity/8.webp',
+      amalCharity9 = 'assets/amal_charity/9.webp',
+      amalCharity10 = 'assets/amal_charity/10.webp',
+      amalCharity11 = 'assets/amal_charity/11.webp',
+      amalCharity12 = 'assets/amal_charity/12.webp',
+      amalCharity13 = 'assets/amal_charity/13.webp',
+      amalCharity14 = 'assets/amal_charity/14.webp',
+      amalCharity15 = 'assets/amal_charity/15.webp',
+      amalCharity16 = 'assets/amal_charity/16.webp',
+      amalCharity17 = 'assets/amal_charity/17.webp',
+      amalCharity18 = 'assets/amal_charity/18.webp',
+      amalCharity19 = 'assets/amal_charity/19.webp';
+
+  static const String myRoshita1 = 'assets/my_roshita/1.webp',
+      myRoshita2 = 'assets/my_roshita/2.webp',
+      myRoshita3 = 'assets/my_roshita/3.webp',
+      myRoshita4 = 'assets/my_roshita/4.webp',
+      myRoshita5 = 'assets/my_roshita/5.webp';
+
+  static const String raihanAcademy1 = 'assets/raihan_academy/1.webp',
+      raihanAcademy2 = 'assets/raihan_academy/2.webp',
+      raihanAcademy3 = 'assets/raihan_academy/3.webp',
+      raihanAcademy4 = 'assets/raihan_academy/4.webp',
+      raihanAcademy5 = 'assets/raihan_academy/5.webp',
+      raihanAcademy6 = 'assets/raihan_academy/6.webp',
+      raihanAcademy7 = 'assets/raihan_academy/7.webp',
+      raihanAcademy8 = 'assets/raihan_academy/8.webp';
+
+ 
+
+  static const List<String> aneesList = [
+        anees1,
+        anees2,
+        anees3,
+        anees4,
+        anees5,
+        anees6,
+        anees7,
+        anees8,
+        anees9,
+        anees10,
+        anees11,
+        anees12,
+        anees13,
+        anees14,
+        anees15,
+        anees16
+      ],
+      amalCharityList = [
+        amalCharity1,
+        amalCharity2,
+        amalCharity3,
+        amalCharity4,
+        amalCharity5,
+        amalCharity6,
+        amalCharity7,
+        amalCharity8,
+        amalCharity9,
+        amalCharity10,
+        amalCharity11,
+        amalCharity12,
+        amalCharity13,
+        amalCharity14,
+        amalCharity15,
+        amalCharity16,
+        amalCharity17,
+        amalCharity18,
+        amalCharity19,
+      ],
+      myRoshitaList = [
+        myRoshita1,
+        myRoshita2,
+        myRoshita3,
+        myRoshita4,
+        myRoshita5,
+      ],
+      raihanAcademyList = [
+        raihanAcademy1,
+        raihanAcademy2,
+        raihanAcademy3,
+        raihanAcademy4,
+        raihanAcademy5,
+        raihanAcademy6,
+        raihanAcademy7,
+        raihanAcademy8,
+      ];
+
+
+       static const String profileBackground =
+          'assets/zExtra/profile_background.webp',
+      myImage = 'assets/zExtra/my_image.webp';
+}
