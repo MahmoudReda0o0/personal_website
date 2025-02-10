@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
+import 'page_componant/Communications.dart';
 import 'page_componant/header.dart';
 import 'page_componant/projects.dart';
 import 'page_componant/skills.dart';
@@ -18,7 +19,10 @@ class WibsitePage extends StatelessWidget {
             Skills(),
             Gap(30),
             Projects(),
+            Gap(80),
+            Communications(),
             Gap(800),
+            
           ],
         ),
       ),

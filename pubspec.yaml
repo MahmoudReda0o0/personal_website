@@ -37,6 +37,7 @@ dependencies:
   provider: ^6.1.2
   flutter_carousel_widget: ^3.1.0
   gap: 
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
@@ -59,6 +60,7 @@ flutter:
     - assets/amal_charity/
     - assets/my_roshita/
     - assets/raihan_academy/
+    - assets/tasko/
     - assets/zExtra/
     
 

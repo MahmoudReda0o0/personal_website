@@ -51,7 +51,23 @@ class AppImage {
       raihanAcademy7 = 'assets/raihan_academy/7.webp',
       raihanAcademy8 = 'assets/raihan_academy/8.webp';
 
- 
+  static const String tasko1 = 'assets/tasko/1.webp',
+      tasko2 = 'assets/tasko/2.webp',
+      tasko3 = 'assets/tasko/3.webp',
+      tasko4 = 'assets/tasko/4.webp',
+      tasko5 = 'assets/tasko/5.webp',
+      tasko6 = 'assets/tasko/6.webp',
+      tasko7 = 'assets/tasko/7.webp',
+      tasko8 = 'assets/tasko/8.webp',
+      tasko9 = 'assets/tasko/9.webp',
+      tasko10 = 'assets/tasko/10.webp',
+      tasko11 = 'assets/tasko/11.webp',
+      tasko12 = 'assets/tasko/12.webp',
+      tasko13 = 'assets/tasko/13.webp',
+      tasko14 = 'assets/tasko/14.webp',
+      tasko15 = 'assets/tasko/15.webp',
+      tasko16 = 'assets/tasko/16.webp',
+      tasko17 = 'assets/tasko/17.webp';
 
   static const List<String> aneesList = [
         anees1,
@@ -108,10 +124,31 @@ class AppImage {
         raihanAcademy6,
         raihanAcademy7,
         raihanAcademy8,
+      ],
+      tasko = [
+        tasko1,
+        tasko2,
+        tasko3,
+        tasko4,
+        tasko5,
+        tasko6,
+        tasko7,
+        tasko8,
+        tasko9,
+        tasko10,
+        tasko11,
+        tasko12,
+        tasko13,
+        tasko14,
+        tasko15,
+        tasko16,
+        tasko17,
       ];
 
-
-       static const String profileBackground =
+  static const String profileBackground =
           'assets/zExtra/profile_background.webp',
-      myImage = 'assets/zExtra/my_image.webp';
+      myImage = 'assets/zExtra/my_image.webp',
+      github = 'assets/zExtra/github.webp',
+      linkedin = 'assets/zExtra/linkedin.webp',
+      whatsup = 'assets/zExtra/whatsup.webp';
 }
